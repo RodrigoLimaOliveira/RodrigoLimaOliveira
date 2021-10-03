@@ -22,3 +22,6 @@ Sou do Brasil, tenho 31 anos. Trabalho hoje com as linguagens C# e JavaScript, e
   
 <a href="https://www.linkedin.com/in/rodrigo-lima-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5531997250190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+<p align="center"> Quantidade de visitas no meu perfil desde - 03/10/2021 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RodrigoLimaOliveira/count.svg"/></p>
